@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talent-jsdev&hide=contribs&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talent-jsdev&layout=compact&hide=objective-c,c%2B%2B,hack,objective-c%2B%2B)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=talent-jsdev&hide=contribs&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talent-jsdev&layout=compact&hide=objective-c,c%2B%2B,hack,objective-c%2B%2B)
